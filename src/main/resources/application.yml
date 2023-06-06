@@ -1,0 +1,10 @@
+age: 20
+name: Tom
+cupSize: 108
+content: "name: ${name}, age: ${age}"
+
+boy:
+  age: 20
+  name: Jack
+  cupSize: 104
+  content: "name: ${boy.name}, age: ${boy.age}"
